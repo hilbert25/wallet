@@ -1,0 +1,16 @@
+{
+  "name": "wallet",
+  "version": "0.0.1",
+  "description": "web wallet wrap",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@git.n.xiaomi.com:hackathon2018/wallet.git"
+  },
+  "author": "tananlv",
+  "license": "ISC",
+  "dependencies": {
+    "web3-api-wrap": "^0.2.2",
+    "web3-wallet": "^0.3.1"
+  }
+}
