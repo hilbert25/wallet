@@ -5,9 +5,9 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git@git.n.xiaomi.com:hackathon2018/wallet.git"
+    "url": "git@github.com:hilbert25/wallet.git"
   },
-  "author": "tananlv",
+  "author": "hht",
   "license": "ISC",
   "dependencies": {
     "web3-api-wrap": "^0.2.2",
